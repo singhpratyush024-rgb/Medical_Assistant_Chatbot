@@ -1,4 +1,4 @@
-﻿fasfastapi
+﻿fastapi
 uvicorn[standard]
 python-multipart
 langchain
