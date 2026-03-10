@@ -4,6 +4,14 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-success?style=for-the-badge)](https://medical-assistant-chatbot-hazel.vercel.app)
 [![Backend](https://img.shields.io/badge/Backend-Render-purple?style=for-the-badge)](https://medical-assistant-chatbot-6ixo.onrender.com)
 
+
+---
+
+## Screenshot
+
+![MedAssist App](screenshots/app-screenshot.png)
+
+
 ---
 
 ## Overview
