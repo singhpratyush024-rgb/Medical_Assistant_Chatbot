@@ -3,7 +3,8 @@
 ![MedAssist](https://img.shields.io/badge/MedAssist-AI%20Medical%20Assistant-blue?style=for-the-badge)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-success?style=for-the-badge)](https://medical-assistant-chatbot-hazel.vercel.app)
 [![Backend](https://img.shields.io/badge/Backend-Render-purple?style=for-the-badge)](https://medical-assistant-chatbot-6ixo.onrender.com)
-
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
